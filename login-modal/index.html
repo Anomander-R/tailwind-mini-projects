@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,800;1,900&family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme:{
+                fontFamily:{
+                    sans: ['Mulish', 'sans-serif'],
+                    mono: ['Rokkitt', 'monospace']
+                }
+            }
+        }
+    </script>
+    <title>Login Modal Project</title>
+    
+  </head>
+  <body>
+        <!-- Global Container -->
+        <div class="flex items-center justify-center min-h-screen bg-rose-100">
+            <!-- Card Container -->
+            <div class="relative flex flex-col 
+                        m-6 space-y-10 bg-white shadow-2xl 
+                        rounded-2xl md:flex-row 
+                        md:space-y-0 md:m-0">
+                <!-- Left Side -->
+                <div class="p-6 md:p-20">
+
+                </div>
+
+                <!-- Right Side -->
+                <img src="images/image.jpg" alt="" class="w-[430px] hidden md:block rounded-tr-2xl rounded-br-2xl"/>
+            </div>
+        </div>
+  </body>
+</html>
