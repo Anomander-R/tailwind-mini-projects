@@ -24,22 +24,22 @@ Product Modal
 
 ## Structure 
 `
-[tailwind-mini-projects]
-|-index.html
-|-README.md
-|_ [email-subscribe]
-|   |_index.html
-|   |_[images]
-|_ [image-gallery]
-|   |_index.html
-|   |_[images]
-|_ [login-modal]
-|   |_index.html
-|   |_[images]
-|_ [pricing-grid]
-|   |_index.html
-|   |_[images]
-|_ [product-modal]
-    |_index.html
-    |_[images]
+[tailwind-mini-projects]  
+|-index.html  
+|-README.md  
+|_ [email-subscribe]  
+|   |_index.html  
+|   |_[images]  
+|_ [image-gallery]  
+|   |_index.html  
+|   |_[images]  
+|_ [login-modal]  
+|   |_index.html  
+|   |_[images]  
+|_ [pricing-grid]  
+|   |_index.html  
+|   |_[images]  
+|_ [product-modal]  
+    |_index.html  
+    |_[images]  
 `
