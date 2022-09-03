@@ -28,17 +28,17 @@ Product Modal
   |-index.html  
   |-README.md  
   |_ [email-subscribe]  
-  |   |_index.html  
-  |   |_[images]  
+  |   |___index.html  
+  |   |___[images]  
   |_ [image-gallery]  
-  |   |_index.html  
-  |   |_[images]  
+  |   |___index.html  
+  |   |___[images]  
   |_ [login-modal]  
-  |   |_index.html  
-  |   |_[images]  
+  |   |___index.html  
+  |   |___[images]  
   |_ [pricing-grid]  
-  |   |_index.html  
-  |   |_[images]  
+  |   |___index.html  
+  |   |___[images]  
   |_ [product-modal]  
-      |_index.html  
-      |_[images]  
+      |___index.html  
+      |___[images]  
