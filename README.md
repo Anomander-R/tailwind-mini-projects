@@ -23,7 +23,7 @@ Product Modal
     `unsplash.com - free images and photos for any project`
 
 ## Structure 
-`
+
   [tailwind-mini-projects]  
   |-index.html  
   |-README.md  
@@ -42,4 +42,3 @@ Product Modal
   |_ [product-modal]  
       |_index.html  
       |_[images]  
-`
