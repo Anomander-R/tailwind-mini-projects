@@ -3,6 +3,8 @@
 ## Description
 This is a project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes. All examples are from Udemy's "Tailwind CSS From Scratch | Learn By Building Projects".
 
+![tailwind_5_mini](https://user-images.githubusercontent.com/90348779/188270857-c14d1c1c-cf8b-4239-a62b-200c9833e4ff.png)
+
 ## Projects
 
 Email Subscribe
